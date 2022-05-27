@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on something special
+- 🔭 I’m currently working as an Blockchain Intern
 - 🌱 I’m currently learning Deeplearning and NLP
 - 💬 Ask me about   Machine Learnning
 - 📫 How to reach me: ghardik5902@gmail.com
